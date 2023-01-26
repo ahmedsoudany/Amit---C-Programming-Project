@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1662870914 source:d:\mozakra\amit\new folder\c project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C project.h"
+
+1662869493 d:\mozakra\amit\new folder\c project\c project.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1662870683 source:d:\mozakra\amit\new folder\c project\c project.c
+	"C project.h"
+
+1662553350 source:d:\mozakra\amit\new folder\final.c
+
